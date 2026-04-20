@@ -1,0 +1,8 @@
+path: D:\dullnessdetect
+
+train: images/train
+val: images/val
+
+names:
+  0: Dullness
+  1: Normal
